@@ -17,16 +17,3 @@ namespace  sqllfs{
         public string Email { get; set; }
     }
 }
-
-
-        // public int Id { get; set; }
-        // public string Name { get; set; }
-        // public int? AlbumId { get; set; }
-        // public int MediaTypeId { get; set; } // CANNOT BE NULL
-        // public int? GenreId { get; set; }    // CAN BE NULL
-        // public string Composer { get; set; }
-        // public int Milliseconds { get; set; }
-        // public int? Bytes { get; set; }
-        // public int UnitPrice { get; set; }
-
-        public string
